@@ -1,1 +1,13 @@
-# qa_python
+# sprint_4
+# Список реализованных тестов
+
+- test_add_new_book_adds_book
+- test_add_new_book_invalid_name_not_added
+- test_add_new_book_added_book_has_empty_genre
+- test_set_book_genre_sets_valid_genre
+- test_set_book_genre_invalid_genre_not_set
+- test_get_books_with_specific_genre_returns_correct_books
+- test_get_books_genre_returns_books_genre_dictionary
+- test_get_books_for_children_excludes_age_rating_genres
+- test_add_book_in_favorites_adds_book_once
+- test_delete_book_from_favorites_deletes_book
